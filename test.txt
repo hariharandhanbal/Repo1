@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1A7A-82B7
+
+ Directory of C:\Users\10608846\Desktop\Gotcha
+
+03/14/2018  08:52 PM    <DIR>          .
+03/14/2018  08:52 PM    <DIR>          ..
+03/14/2018  08:52 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  140,897,988,608 bytes free
